@@ -8,10 +8,10 @@ I'm a Data Engineering Enthusiast👨‍💻
 📫 Please email via abs200396@gmail.com to reach me.
 
 Languages:
-python
+[https://www.python.org/](https://www.python.org/)
 
 Databases:
-mysql
+[mysql](https://www.mysql.com/)
 
 Softwares:
-git
+[git](https://git-scm.com/)
