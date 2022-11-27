@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Ajay
-- 👀 I’m interested in ... Big Data and Data Engineering
-- 🌱 I’m currently learning ... Data Engineering
-- 💞️ I’m looking to collaborate on ... Learn new technologies in Big Data. 
-- 📫 How to reach me ... NA
+Hi 👋, I'm Ajay Sharma
+I'm a Data Engineering Enthusiast👨‍💻
+🏅 I recently started my Data Engineering studies from iNeuron.ai
+🎓 I have completed my B.Tech from MU
+⏳ I am constantly learning and keep myself updated with the latest technologies in Big Data.
+🤔 My interests are in Data engineering , Big data @ 
+💬 Ask me about anything, I am happy to help.
+📫 Please email via abs200396@gmail.com to reach me.
 
-<!---
-Ajay203/Ajay203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Languages:
+python
+
+Databases:
+mysql
+
+Softwares:
+git
